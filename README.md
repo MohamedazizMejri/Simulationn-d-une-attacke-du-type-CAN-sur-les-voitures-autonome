@@ -12,12 +12,3 @@ Sensibiliser à l’importance de la cybersécurité automobile.
 
 ⚙️ Technologies Utilisées
 🐍 Python
-
-💻 SocketCAN (sous Linux)
-
-🛠️ CAN-utils (ex. candump, cansend)
-
-🧪 Virtual CAN interface (vcan0) pour la simulation
-
-🖥️ Optionnel : Utilisation d’un simulateur comme CANoe, SavvyCAN, ou un émulateur de véhicule
-
